@@ -1,4 +1,4 @@
-1
+--1
 
 SELECT ROUND(AVG(rental_rate),3) FROM film;
 
